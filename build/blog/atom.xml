@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://amentfirm.github.io/blog</id>
+    <title>Firmament - 蒼穹 Blog</title>
+    <updated>2022-12-20T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://amentfirm.github.io/blog"/>
+    <subtitle>Firmament - 蒼穹 Blog</subtitle>
+    <icon>https://amentfirm.github.io/img/firmament.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Welcome]]></title>
+        <id>welcome</id>
+        <link href="https://amentfirm.github.io/blog/welcome"/>
+        <updated>2022-12-20T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Today, we established the our home website for hosting web app for fun!]]></summary>
+        <content type="html"><![CDATA[<p>Today, we established the our home website for hosting web app for fun!</p><p>今日，我們建立了此網頁用於開發有趣的web apps！</p>]]></content>
+        <author>
+            <name>Po</name>
+            <uri>https://github.com/piratepo</uri>
+        </author>
+        <author>
+            <name>Sing Chun</name>
+            <uri>https://github.com/singchun</uri>
+        </author>
+        <category label="hello" term="hello"/>
+    </entry>
+</feed>
