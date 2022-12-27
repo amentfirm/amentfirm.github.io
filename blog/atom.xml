@@ -2,18 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://amentfirm.github.io/blog</id>
     <title>Firmament - 蒼穹 Blog</title>
-    <updated>2022-12-20T00:00:00.000Z</updated>
+    <updated>2022-12-26T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://amentfirm.github.io/blog"/>
     <subtitle>Firmament - 蒼穹 Blog</subtitle>
     <icon>https://amentfirm.github.io/img/firmament.ico</icon>
     <entry>
+        <title type="html"><![CDATA[First Realtime Database Apps]]></title>
+        <id>first-apps</id>
+        <link href="https://amentfirm.github.io/blog/first-apps"/>
+        <updated>2022-12-26T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[We customized a navbar item (with this workaround) for "menu bar log-in" using Firebase Authentication and wrote two simple apps to read/write data to/from Firebase Realtime Database.]]></summary>
+        <content type="html"><![CDATA[<p>We customized a navbar item (with this <a href="https://github.com/facebook/docusaurus/pull/7231" target="_blank" rel="noopener noreferrer">workaround</a>) for "menu bar log-in" using <a href="https://firebase.google.com/docs/auth?hl=en" target="_blank" rel="noopener noreferrer">Firebase Authentication</a> and wrote two simple apps to read/write data to/from <a href="https://firebase.google.com/docs/database?hl=en" target="_blank" rel="noopener noreferrer">Firebase Realtime Database</a>.</p><p>用咗<a href="https://github.com/facebook/docusaurus/pull/7231" target="_blank" rel="noopener noreferrer">呢嗰post</a>教嘅workaround整咗用<a href="https://firebase.google.com/docs/auth?hl=en" target="_blank" rel="noopener noreferrer">Firebase Authentication</a>嘅"menu bar log-in"，同埋寫咗兩個簡單嘅<a href="https://firebase.google.com/docs/database?hl=en" target="_blank" rel="noopener noreferrer">Firebase Realtime Database</a>讀入寫出嘅web apps。</p><ul><li><a href="/docs/Display">Read</a></li><li><a href="/docs/Submit">Write</a></li></ul>]]></content>
+        <author>
+            <name>Po</name>
+            <uri>https://github.com/piratepo</uri>
+        </author>
+        <author>
+            <name>Sing Chun</name>
+            <uri>https://github.com/singchun</uri>
+        </author>
+        <category label="first" term="first"/>
+        <category label="apps" term="apps"/>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Welcome]]></title>
         <id>welcome</id>
         <link href="https://amentfirm.github.io/blog/welcome"/>
         <updated>2022-12-20T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Today, we established the our home website for hosting web app for fun!]]></summary>
-        <content type="html"><![CDATA[<p>Today, we established the our home website for hosting web app for fun!</p><p>今日，我們建立了此網頁用於開發有趣的web apps！</p>]]></content>
+        <summary type="html"><![CDATA[Today, we established our home website for hosting to-be-developed fun web apps! We used Docusaurus.]]></summary>
+        <content type="html"><![CDATA[<p>Today, we established our home website for hosting to-be-developed fun web apps! We used <a href="https://docusaurus.io/" target="_blank" rel="noopener noreferrer">Docusaurus</a>.</p><p>今日，我哋起咗呢嗰網頁用於開發有趣嘅web apps！我哋用咗<a href="https://docusaurus.io/" target="_blank" rel="noopener noreferrer">Docusaurus</a>.</p>]]></content>
         <author>
             <name>Po</name>
             <uri>https://github.com/piratepo</uri>
