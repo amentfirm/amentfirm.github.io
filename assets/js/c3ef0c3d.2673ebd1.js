@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkFirmament=self.webpackChunkFirmament||[]).push([[3063],{30782:e=>{e.exports=JSON.parse('{"permalink":"/blog/tags/5-in-a-row","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
