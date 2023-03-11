@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkFirmament=self.webpackChunkFirmament||[]).push([[714],{5994:a=>{a.exports=JSON.parse('{"label":"5-in-a-row","permalink":"/blog/tags/5-in-a-row","allTagsPath":"/blog/tags","count":2}')}}]);
