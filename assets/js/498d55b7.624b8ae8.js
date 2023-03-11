@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkFirmament=self.webpackChunkFirmament||[]).push([[2666],{8170:a=>{a.exports=JSON.parse('{"label":"games","permalink":"/blog/tags/games","allTagsPath":"/blog/tags","count":1}')}}]);

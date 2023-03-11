@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkFirmament=self.webpackChunkFirmament||[]).push([[535],{5641:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"First Realtime Database Apps","permalink":"/blog/first-apps"},{"title":"Welcome","permalink":"/blog/welcome"}]}')}}]);
