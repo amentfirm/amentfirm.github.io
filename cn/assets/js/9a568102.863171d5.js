@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkFirmament=self.webpackChunkFirmament||[]).push([[4712],{94420:a=>{a.exports=JSON.parse('{"label":"scaper","permalink":"/blog/tags/scaper","allTagsPath":"/blog/tags","count":1}')}}]);

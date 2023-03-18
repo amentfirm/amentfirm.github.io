@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkFirmament=self.webpackChunkFirmament||[]).push([[6824],{9369:e=>{e.exports=JSON.parse('{"label":"sphere","permalink":"/blog/tags/sphere","allTagsPath":"/blog/tags","count":1}')}}]);

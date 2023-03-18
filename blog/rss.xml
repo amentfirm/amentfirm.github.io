@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Firmament - 蒼穹 Blog</title>
+        <link>https://amentfirm.github.io/blog</link>
+        <description>Firmament - 蒼穹 Blog</description>
+        <lastBuildDate>Fri, 10 Mar 2023 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>en</language>
+        <item>
+            <title><![CDATA[Gomoku-Net-Play]]></title>
+            <link>https://amentfirm.github.io/blog/Gomoku-Net-Play</link>
+            <guid>https://amentfirm.github.io/blog/Gomoku-Net-Play</guid>
+            <pubDate>Fri, 10 Mar 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[This week we modified our implementation of Gomoku (5-in-a-row game) to support network play using Firebase Realtime Database.]]></description>
+            <content:encoded><![CDATA[<p>This week we modified our implementation of <a href="/docs/Games/Gomoku">Gomoku</a> (5-in-a-row game) to support network play using Firebase Realtime Database.</p><p>今個禮拜我哋改左上星期嗰<a href="/docs/Games/Gomoku">五子棋</a>做網上遊戲。我哋用咗Firebase Realtime Database去實現實時更新。</p>]]></content:encoded>
+            <category>apps</category>
+            <category>games</category>
+            <category>gomoku</category>
+            <category>5-in-a-row</category>
+        </item>
+        <item>
+            <title><![CDATA[Gomoku]]></title>
+            <link>https://amentfirm.github.io/blog/Gomoku</link>
+            <guid>https://amentfirm.github.io/blog/Gomoku</guid>
+            <pubDate>Fri, 03 Mar 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[This week we modified tic-tac-toe game and implemented Gomoku (5-in-a-row game). We used fontawesome for SVG icons.]]></description>
+            <content:encoded><![CDATA[<p>This week we modified <a href="/docs/Games/TicTacToe">tic-tac-toe game</a> and implemented <a href="/docs/Games/Gomoku">Gomoku</a> (5-in-a-row game). We used <a href="https://fontawesome.com/v6/docs/web/use-with/react/" target="_blank" rel="noopener noreferrer">fontawesome</a> for SVG icons.</p><p>今個禮拜我哋改左<a href="/docs/Games/TicTacToe">井字過三關</a>寫咗隻<a href="/docs/Games/Gomoku">五子棋</a>。我哋用咗<a href="https://fontawesome.com/v6/docs/web/use-with/react/" target="_blank" rel="noopener noreferrer">fontawesome</a>做icons。</p>]]></content:encoded>
+            <category>apps</category>
+            <category>games</category>
+            <category>gomoku</category>
+            <category>5-in-a-row</category>
+        </item>
+        <item>
+            <title><![CDATA[Sentiment News and Tic-tac-toe]]></title>
+            <link>https://amentfirm.github.io/blog/sentiment-news-and-tic-tac-toe</link>
+            <guid>https://amentfirm.github.io/blog/sentiment-news-and-tic-tac-toe</guid>
+            <pubDate>Fri, 24 Feb 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[We used SnowNLP and pysenti to compute two sentiment scores for each HK news that we scrapped daily. Using these scores, we visualize the news in a sentiment square. From this visualization, we can roughly know how happy/sad daily HK news is. On the other hand, we started our game development journal. Inspired by the simple tic-tac-toe implementation by Fellipe Utakausing tailwind and react, we implemented similarly our own tic-tac-toe game.]]></description>
+            <content:encoded><![CDATA[<p>We used <a href="https://pypi.org/project/snownlp/" target="_blank" rel="noopener noreferrer">SnowNLP</a> and <a href="https://pypi.org/project/pysenti/" target="_blank" rel="noopener noreferrer">pysenti</a> to compute two sentiment scores for each HK news that we scrapped daily. Using these scores, we visualize the news in a <a href="/docs/NewsViz/SentimentNews">sentiment square</a>. From this visualization, we can roughly know how happy/sad daily HK news is. On the other hand, we started our game development journal. Inspired by the simple tic-tac-toe implementation by <a href="https://reactjsexample.com/a-tic-tac-toe-game-made-with-react-and-tailwind-css/" target="_blank" rel="noopener noreferrer">Fellipe Utaka</a>using tailwind and react, we implemented similarly our own <a href="/docs/Games/TicTacToe">tic-tac-toe game</a>.</p><p>我哋用咗<a href="https://pypi.org/project/snownlp/" target="_blank" rel="noopener noreferrer">SnowNLP</a>同<a href="https://pypi.org/project/pysenti/" target="_blank" rel="noopener noreferrer">pysenti</a>去計每單香港每日新聞嘅情感分數，然後用呢兩個情感分數將新聞顯示係一個<a href="/docs/NewsViz/SentimentNews">二維情感平面</a>上。通過呢個顯示方法，我哋可以大概見到香港每日新聞係開心多定係傷心多。此外，我哋亦踏上寫遊戲嘅旅程。睇到<a href="https://reactjsexample.com/a-tic-tac-toe-game-made-with-react-and-tailwind-css/" target="_blank" rel="noopener noreferrer">Fellipe Utaka</a>簡單地用tailwind同react去寫井字過三關，我哋都寫左一個相似嘅<a href="/docs/Games/TicTacToe">井字過三關</a>。</p>]]></content:encoded>
+            <category>apps</category>
+            <category>news</category>
+            <category>sentiment</category>
+            <category>tic-tac-toe</category>
+        </item>
+        <item>
+            <title><![CDATA[HK News on a Sphere]]></title>
+            <link>https://amentfirm.github.io/blog/news-on-sphere</link>
+            <guid>https://amentfirm.github.io/blog/news-on-sphere</guid>
+            <pubDate>Fri, 10 Feb 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[We added a cronjob on our server to scrape HK news daily and store them on FireStore. Then we implemented a query to search for the news and used the technique demonstrated by raizensoft (video here) to display HK news on a sphere. To display arbitrary numbers of news evenly on the sphere, we used spherical Fibonacci mapping.]]></description>
+            <content:encoded><![CDATA[<p>We added a cronjob on our server to scrape HK news daily and store them on FireStore. Then we implemented a query to <a href="/docs/NewsViz/SearchNews">search for the news</a> and used the technique demonstrated by <a href="https://www.youtube.com/@raizensoft" target="_blank" rel="noopener noreferrer">raizensoft</a> (video <a href="https://www.youtube.com/watch?v=xqpUsk3HWic" target="_blank" rel="noopener noreferrer">here</a>) to display HK <a href="/docs/NewsViz/SphereNews">news on a sphere</a>. To display arbitrary numbers of news evenly on the sphere, we used <a href="https://doi.org/10.1145/2816795.2818131" target="_blank" rel="noopener noreferrer">spherical Fibonacci mapping</a>.</p><p>我哋加咗個cornjob係server上每日爬香港新聞同儲存係FireStore上面。然後我哋寫咗個query去<a href="/docs/NewsViz/SearchNews">搵香港新閒</a>同用咗<a href="https://www.youtube.com/@raizensoft" target="_blank" rel="noopener noreferrer">raizensoft</a>係<a href="https://www.youtube.com/watch?v=xqpUsk3HWic" target="_blank" rel="noopener noreferrer">呢喥</a>示範嘅技巧將每日嘅<a href="/docs/NewsViz/SphereNews">香港新閒顯示係球上面</a>。我哋用咗<a href="https://doi.org/10.1145/2816795.2818131" target="_blank" rel="noopener noreferrer">spherical Fibonacci mapping</a>將任意數目嘅新閒平均地放係球上面。</p>]]></content:encoded>
+            <category>apps</category>
+            <category>news</category>
+            <category>search</category>
+            <category>database</category>
+            <category>cronjob</category>
+            <category>sphere</category>
+        </item>
+        <item>
+            <title><![CDATA[HK News Scraper]]></title>
+            <link>https://amentfirm.github.io/blog/news-scraper</link>
+            <guid>https://amentfirm.github.io/blog/news-scraper</guid>
+            <pubDate>Sat, 14 Jan 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[We scrapped HK news using CORS proxy and cheerio to feed live news from below news channels:]]></description>
+            <content:encoded><![CDATA[<p>We <a href="/docs/NewsViz/Scrape">scrapped HK news</a> using <a href="https://cors-anywhere.herokuapp.com/" target="_blank" rel="noopener noreferrer">CORS proxy</a> and <a href="https://cheerio.js.org/" target="_blank" rel="noopener noreferrer">cheerio</a> to feed live news from below news channels:</p><p>我哋用咗<a href="https://cors-anywhere.herokuapp.com/" target="_blank" rel="noopener noreferrer">CORS proxy</a>同<a href="https://cheerio.js.org/" target="_blank" rel="noopener noreferrer">cheerio</a>去<a href="/docs/NewsViz/Scrape">收集</a>下面各新聞網嘅即時/焦點新閒：</p><ul><li><a href="https://www.hk01.com" target="_blank" rel="noopener noreferrer">HK01/香港01</a></li><li><a href="http://www.takungpao.com.hk" target="_blank" rel="noopener noreferrer">Ta Kung Pao/大公報</a></li><li><a href="https://www.stheadline.com" target="_blank" rel="noopener noreferrer">Sing Tao Daily/星島日報</a></li><li><a href="https://hk.on.cc" target="_blank" rel="noopener noreferrer">Oriental Daily News/東方日報</a></li><li><a href="https://news.mingpao.com/pns" target="_blank" rel="noopener noreferrer">Ming Pao/明報</a></li><li><a href="https://www.secretchina.com/news/b5/index.html" target="_blank" rel="noopener noreferrer">Vision Times/看中國</a></li><li><a href="https://www.epochtimes.com/b5" target="_blank" rel="noopener noreferrer">Epoch Times/大紀元</a></li><li><a href="https://hk.news.yahoo.com" target="_blank" rel="noopener noreferrer">Yahoo/雅虎</a></li><li><a href="http://www.hkcna.hk" target="_blank" rel="noopener noreferrer">HKCNA/香港新閒網</a></li><li><a href="https://news.rthk.hk" target="_blank" rel="noopener noreferrer">RTHK News/香港電台</a></li><li><a href="https://news.hongkongmetas.com" target="_blank" rel="noopener noreferrer">HK Matters/香港新聞連線</a></li><li><a href="https://news.tvb.com/tc" target="_blank" rel="noopener noreferrer">TVB News/無線新聞</a></li><li><a href="https://www.news.gov.hk/chi/index.html" target="_blank" rel="noopener noreferrer">Gov News/政府新聞網</a></li><li><a href="https://www.wenweipo.com/immed/hongkong" target="_blank" rel="noopener noreferrer">Wen Wei Po/文匯報</a></li><li><a href="https://www.am730.com.hk" target="_blank" rel="noopener noreferrer">am730</a></li><li><a href="https://news.now.com/home" target="_blank" rel="noopener noreferrer">Now News/Now 新聞</a></li><li><a href="https://www.bbc.com/zhongwen/trad" target="_blank" rel="noopener noreferrer">BBC News/BBC 新聞</a></li><li><a href="https://www.abc.net.au/news/chinese/china" target="_blank" rel="noopener noreferrer">ABC News/ABC 新聞</a></li><li><a href="https://ici.radio-canada.ca/rci/zh-hant" target="_blank" rel="noopener noreferrer">CBC Radio/加拿大新聞</a></li><li><a href="https://cn.nytimes.com/hk-taiwan/zh-hant/" target="_blank" rel="noopener noreferrer">NY Times/紐約時報</a></li></ul>]]></content:encoded>
+            <category>apps</category>
+            <category>news</category>
+            <category>scaper</category>
+        </item>
+        <item>
+            <title><![CDATA[First Realtime Database Apps]]></title>
+            <link>https://amentfirm.github.io/blog/first-apps</link>
+            <guid>https://amentfirm.github.io/blog/first-apps</guid>
+            <pubDate>Mon, 26 Dec 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[We customized a navbar item (with this workaround) for "menu bar log-in" using Firebase Authentication and wrote two simple apps to read/write data to/from Firebase Realtime Database.]]></description>
+            <content:encoded><![CDATA[<p>We customized a navbar item (with this <a href="https://github.com/facebook/docusaurus/pull/7231" target="_blank" rel="noopener noreferrer">workaround</a>) for "menu bar log-in" using <a href="https://firebase.google.com/docs/auth?hl=en" target="_blank" rel="noopener noreferrer">Firebase Authentication</a> and wrote two simple apps to read/write data to/from <a href="https://firebase.google.com/docs/database?hl=en" target="_blank" rel="noopener noreferrer">Firebase Realtime Database</a>.</p><p>用咗<a href="https://github.com/facebook/docusaurus/pull/7231" target="_blank" rel="noopener noreferrer">呢嗰post</a>教嘅workaround整咗用<a href="https://firebase.google.com/docs/auth?hl=en" target="_blank" rel="noopener noreferrer">Firebase Authentication</a>嘅"menu bar log-in"，同埋寫咗兩個簡單嘅<a href="https://firebase.google.com/docs/database?hl=en" target="_blank" rel="noopener noreferrer">Firebase Realtime Database</a>讀入寫出嘅web apps。</p><ul><li><a href="/docs/Firebase/Display">Read</a></li><li><a href="/docs/Firebase/Submit">Write</a></li></ul>]]></content:encoded>
+            <category>first</category>
+            <category>apps</category>
+        </item>
+        <item>
+            <title><![CDATA[Welcome]]></title>
+            <link>https://amentfirm.github.io/blog/welcome</link>
+            <guid>https://amentfirm.github.io/blog/welcome</guid>
+            <pubDate>Tue, 20 Dec 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[Today, we established our home website for hosting to-be-developed fun web apps! We used Docusaurus.]]></description>
+            <content:encoded><![CDATA[<p>Today, we established our home website for hosting to-be-developed fun web apps! We used <a href="https://docusaurus.io/" target="_blank" rel="noopener noreferrer">Docusaurus</a>.</p><p>今日，我哋起咗呢嗰網頁用於開發有趣嘅web apps！我哋用咗<a href="https://docusaurus.io/" target="_blank" rel="noopener noreferrer">Docusaurus</a>.</p>]]></content:encoded>
+            <category>hello</category>
+        </item>
+    </channel>
+</rss>
