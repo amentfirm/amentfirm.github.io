@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkFirmament=self.webpackChunkFirmament||[]).push([[8531],{8590:e=>{e.exports=JSON.parse('{"permalink":"/blog/tags/sentiment","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkFirmament=self.webpackChunkFirmament||[]).push([[2697],{4543:t=>{t.exports=JSON.parse('{"label":"tic-tac-toe","permalink":"/blog/tags/tic-tac-toe","allTagsPath":"/blog/tags","count":1}')}}]);
